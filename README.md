@@ -35,16 +35,19 @@
 ## 📸 ตัวอย่างภาพหน้าจอ (Screenshots)
 
 ### 1. หน้าจอตัวละครยืน (Idle)
-![Idle Screenshot](images/idle.png)
+![RPG-SampleScene-Windows_-Mac_-Linux-Unity-6 1-_6000 1 13f1_-_DX11_-2568-09-14-18-48-41](https://github.com/user-attachments/assets/a3de1140-fc49-4712-839c-7587ce646496)
+
 
 ### 2. ตัวละครเดิน (Walk)
-![Walk Screenshot](images/walk.png)
+![RPG-SampleScene-Windows_-Mac_-Linux-Unity-6 1-_6000 1 13f1_-_DX11_-2568-09-14-18-47-55](https://github.com/user-attachments/assets/d7c77ff3-cd18-43ec-b22c-c54af190bc31)
+
 
 ### 3. ตัวละครกระโดด (Jump)
 ![Jump Screenshot](images/jump.png)
 
 ### 4. ตัวละครบาดเจ็บ (เลือดลด)
-![Hurt Screenshot](images/hurt.png)
+![RPG-SampleScene-Windows_-Mac_-Linux-Unity-6 1-_6000 1 13f1_-_DX11_-2568-09-14-18-48-29](https://github.com/user-attachments/assets/c947d24c-568f-4644-a26d-dc5c6b5cff00)
+
 
 ### 5. ตัวละครตาย + Game Over
 ![Game Over Screenshot](images/gameover.png)
